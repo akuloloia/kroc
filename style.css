@@ -1,0 +1,48 @@
+.fitted.item{
+  color: black;
+}
+
+.ui.borderless.topmenu.menu{
+  border: none;
+  box-shadow: none;
+}
+
+.ui.borderless.middlemenu.menu{
+  border: none;
+  box-shadow: none;
+}
+
+.ui.borderless.bottommenu.menu{
+  background-color: #994930;
+  border: none;
+  box-shadow: none;
+  height: 256px;
+  padding-bottom: 20px;
+}
+
+.column{
+  color: white;
+  font-size: 25px;
+  padding-top: 20px;
+}
+
+
+.footer-background{
+  background-color: #424242;
+  padding-top: 50px;
+  padding-bottom: 50px;
+  color: white;
+}
+
+h2{
+  color: white;
+  font-size: 20px;
+}
+
+p{
+  font-size: 15px;
+}
+
+p1{
+  font-size: 13px;
+}
